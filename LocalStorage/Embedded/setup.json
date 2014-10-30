@@ -1,0 +1,30 @@
+﻿{
+
+    "Entities": {
+
+        "Actions": {
+            "Path": "foo.json",
+            "Type": "File"
+        },
+
+        "Extensions": {
+            "Path": "bar.json",
+            "Type": "File"
+        },
+
+        "Players":  {
+            "Path": "a",
+            "Type": "Directory"
+        },
+
+        "Community":  {
+            "Path": "a/empty.json",
+            "Type": "File"
+        },
+        
+        "AgentsExtensions":  {
+            "Path": "a/b",
+            "Type": "Directory"
+        }
+    }
+}
